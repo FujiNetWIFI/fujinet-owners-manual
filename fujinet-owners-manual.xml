@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0//EN" "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd">
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+
+  <info>
+    <title>#FujiNet Owners Guide</title>
+    <author>
+      <personname><firstname>Thomas</firstname><surname>Cherryhomes</surname></personname>
+    </author>
+    <copyright><year>2021</year><holder>Thomas Cherryhomes</holder></copyright>
+  </info>
+  
+  <preface>
+    <title>Preface</title>
+  </preface>
+
+  <part>
+    <title>Introducing Your #FujiNet</title>
+
+    <chapter>
+      <title>An Overview of Features</title>
+
+      <para>Thank you for buying a #FujiNet! What you have in the palm of your hand is the most advanced Atari peripheral ever produced! This single peripheral has the potential to replace every single extant Atari peripheral and simplify your setup, while providing a whole host of new networking features.</para>
+      
+    </chapter>
+    
+    <chapter>
+      <title>Hooking up your #FujiNet</title>
+    </chapter>
+        
+  </part>
+
+  <part>
+    <title>Each Feature in Depth</title>
+  </part>
+  
+</book>
